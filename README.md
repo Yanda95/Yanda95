@@ -2,49 +2,48 @@
 
 ## 🎓 Education
 
-- **Bachelor's & Master's Degrees**: Beijing University of Posts and Telecommunications&#8203;:contentReference[oaicite:0]{index=0}
-- **Ph.D.**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+- **Bachelor's & Master's Degrees**: Beijing University of Posts and Telecommunications  
+- **Ph.D.**: University of Technology Sydney
 
 ## 🧑‍🏫 Supervisors
 
-- **Professor Yunchao Wei**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Professor Ling Chen**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+- **Professor Yunchao Wei** (Beijing Jiaotong University)  
+  🔗 [https://weiyc.github.io/](https://weiyc.github.io/)
+
+- **Professor Ling Chen** (University of Technology Sydney)  
+  🔗 [https://profiles.uts.edu.au/Ling.Chen](https://profiles.uts.edu.au/Ling.Chen)
 
 ## 🔬 Research Interests
 
-:contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+- Weakly Supervised Learning  
+- Semi-Supervised Learning  
+- Few-Shot Learning  
+- Domain Adaptation  
+- Active Learning  
+- Multimodal Large Language Models  
+- Mobile Agents  
+- Temporal Question Answering
 
-- :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-- :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-
-## 📝 Selected Publications
-
-:contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
+## 📄 Selected Publications
 
 - **Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models**  
   *Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen*  
-  :contentReference[oaicite:21]{index=21} :contentReference[oaicite:22]{index=22}&#8203;:contentReference[oaicite:23]{index=23}
+  [arXiv](https://arxiv.org/abs/2411.14842)
 
 - **Foundations and Recent Trends in Multimodal Mobile Agents: A Survey**  
   *Biao Wu, Yanda Li, Meng Fang, Zirui Song, Zhiwei Zhang, Yunchao Wei, Ling Chen*  
-  :contentReference[oaicite:24]{index=24} :contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
+  [AlphaXiv](https://www.alphaxiv.org/abs/2411.02006)
 
 - **Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering**  
   *Wanqi Yang, Yanda Li, Meng Fang, Ling Chen*  
-  :contentReference[oaicite:27]{index=27} :contentReference[oaicite:28]{index=28}&#8203;:contentReference[oaicite:29]{index=29}
+  [AlphaXiv](https://www.alphaxiv.org/abs/2409.16909)
 
 - **Disentangled Pre-training for Image Matting**  
   *Yanda Li, Zilong Huang, Gang Yu, Ling Chen, Yunchao Wei, Jianbo Jiao*  
-  :contentReference[oaicite:30]{index=30} :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
+  [Project Page](https://crystraldo.github.io/dpt_mat/)
 
-## 📫 Contact Information
+## 📫 Contact
 
-- **Email**: :contentReference[oaicite:33]{index=33}&#8203;:contentReference[oaicite:34]{index=34}
-- **Personal Website**: :contentReference[oaicite:35]{index=35}&#8203;:contentReference[oaicite:36]{index=36}
-- **Google Scholar**: :contentReference[oaicite:37]{index=37}&#8203;:contentReference[oaicite:38]{index=38}
-- **LinkedIn**: :contentReference[oaicite:39]{index=39}&#8203;:contentReference[oaicite:40]{index=40}
-
-Thank you for visiting my profile! Feel free to reach out for collaborations or discussions.
+- ✉️ Email: yanda95@gmail.com  
+- 🔗 Google Scholar: [https://scholar.google.com/citations?user=12sQT1oAAAAJ](https://scholar.google.com/citations?user=12sQT1oAAAAJ)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yanda-li/](https://www.linkedin.com/in/yanda-li/)
